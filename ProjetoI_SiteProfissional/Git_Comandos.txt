@@ -1,0 +1,6 @@
+Git log
+
+Git Status
+
+git commit -m 
+
