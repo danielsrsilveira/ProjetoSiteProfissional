@@ -1,0 +1,8 @@
+Ativar o novo Branch
+    git checkout Nova Branch
+
+Rebase
+    Base                                        -----> Branch Funciona1
+    -----------\------------------------/------------> Projeto
+                ------>Branch Funciona1         Base
+
